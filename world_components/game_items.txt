@@ -1,0 +1,24 @@
+[item1]
+This is item1.
+point1
+true
+
+[item2]
+This is item2.
+point1
+false
+
+[item3]
+This is item3.
+point2
+true
+
+[item4]
+This is item4.
+point3
+false
+
+[item5]
+This is item5.
+point5
+true

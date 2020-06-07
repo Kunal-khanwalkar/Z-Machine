@@ -1,0 +1,26 @@
+[point1]
+This is point1. You have the following options.
+point2
+point3
+
+[point2]
+This is point2. You have the following options.
+point1
+point3
+point4
+
+[point3]
+This is point3. You have the following options.
+point1
+point2
+point5
+
+[point4]
+This is point4. You have the following options.
+point2
+point5
+
+[point5]
+This is point5. You have the following options.
+point3
+point4
